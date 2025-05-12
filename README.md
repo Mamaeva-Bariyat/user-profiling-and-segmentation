@@ -24,4 +24,20 @@
 
 ## Распределение ключевых демографических функций
 
-[Distribution of Key Demographic Variables](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/Distribution%20of%20Key%20Demographic%20Variables.png)
+![Distribution of Key Demographic Variables](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/Distribution%20of%20Key%20Demographic%20Variables.png)
+## Распределение использования устройств
+![Device Usage Usage Distribution](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/Device%20Usage%20Distribution.png)
+## Поведение пользователей в Интернете и показатели взаимодействия с рекламой
+![]()
+
+
+
+
+
+
+
+
+
+
+
+
