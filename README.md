@@ -1,0 +1,22 @@
+# user-profiling-and-segmentation
+Профилирование пользователей относится к созданию подробных профилей, которые представляют поведение и предпочтения пользователей,а
+сегментация делит базу пользователей на отдельные группы с общими характеристиками,что упрощает нацеливание определенных сегментов с помощью персонализированного маркетинга,
+продуктов или услуг.<p>
+
+- User ID:&nbsp;&nbsp;&nbsp; Unique identifier for each user.
+- Age: &nbsp;&nbsp;&nbsp; Age range of the user.
+- Gender: &nbsp;&nbsp;&nbsp; Gender of the user.
+- Location:&nbsp;&nbsp;&nbsp;  User’s location type (Urban, Suburban, Rural).
+- Language:&nbsp;&nbsp;&nbsp;  Primary language of the user.
+- Education Level: &nbsp;&nbsp;&nbsp; Highest education level achieved.
+- Likes and Reactions:&nbsp;&nbsp;&nbsp;  Number of likes and reactions a user has made.
+- Followed Accounts: &nbsp;&nbsp;&nbsp; Number of accounts a user follows.
+- Device Usage: &nbsp;&nbsp;&nbsp; Primary device used for accessing the platform (Mobile, Desktop, Tablet).
+- Time Spent Online (hrs/weekday):&nbsp;&nbsp;&nbsp;  Average hours spent online on weekdays.
+- Time Spent Online (hrs/weekend): &nbsp;&nbsp;&nbsp; Average hours spent online on weekends.
+- Click-Through Rates (CTR): &nbsp;&nbsp;&nbsp; The percentage of ad impressions that lead to clicks.
+- Conversion Rates: &nbsp;&nbsp;&nbsp; The percentage of clicks that lead to conversions/actions.
+- Ad Interaction Time (sec): &nbsp;&nbsp;&nbsp; Average time spent interacting with ads in seconds.
+- Income Level: &nbsp;&nbsp;&nbsp; User’s income level.
+- Top Interests: &nbsp;&nbsp;&nbsp; Primary interests of the user.<p>
+
