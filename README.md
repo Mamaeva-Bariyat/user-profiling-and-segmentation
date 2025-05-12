@@ -20,3 +20,8 @@
 - Income Level: &nbsp;&nbsp;&nbsp; User’s income level.
 - Top Interests: &nbsp;&nbsp;&nbsp; Primary interests of the user.<p>
 
+датасет [users profiles for ads.csv](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/edit/main/README.md#:~:text=user_profiles_for_ads.csv)
+
+## Распределение ключевых демографических функций
+
+[Distribution of Key Demographic Variables](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/Distribution%20of%20Key%20Demographic%20Variables.png)
