@@ -28,8 +28,12 @@
 ## Распределение использования устройств
 ![Device Usage Usage Distribution](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/Device%20Usage%20Distribution.png)
 ## Поведение пользователей в Интернете и показатели взаимодействия с рекламой
-![]()
-
+![User Online Behavior and Ad Interaction Metrics](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/User%20Online%20Behavior%20and%20Ad%20Interaction%20Metrics.png)
+## 
+![Top 10 User Interest](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/Top%20Interests.png)
+## создадим лепестковую диаграмму, которая сравнивает средние значения выбранных характеристик по кластерам, предоставляя визуальное представление профиля каждого сегмента:
+![plot](https://github.com/Mamaeva-Bariyat/user-profiling-and-segmentation/blob/main/pictures.png/plot.png)
+Приведенная выше диаграмма полезна для маркетологов, чтобы понять поведение различных сегментов пользователей и соответствующим образом адаптировать свои рекламные стратегии. Например, объявления, нацеленные на «пользователей выходного дня», можно запланировать на выходные, когда они наиболее активны, в то время как «Вовлеченные пользователи» могут лучше реагировать на объявления, которые равномерно распределены в течение недели.
 
 
 
